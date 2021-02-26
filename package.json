@@ -1,0 +1,16 @@
+{
+  "name": "morgan_winston_demo",
+  "version": "1.0.0",
+  "description": "Demo on Winston and Morgan Logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Prakhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
