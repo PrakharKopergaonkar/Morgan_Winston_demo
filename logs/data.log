@@ -1,0 +1,4 @@
+{"message":"GET /demo 304 1.223 -\n","level":"info"}
+{"message":"GET /demo 304 1.223 -\n","level":"info"}
+{"message":"GET /demo 304 1.223 -\n","level":"info"}
+{"message":"GET /demoerror 500 30.440 1477\n","level":"fatal"}
